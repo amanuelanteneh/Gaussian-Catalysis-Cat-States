@@ -1,4 +1,4 @@
-# Deep reinforcement learning for quantum state engineering by photon catalysis
+# Deep reinforcement learning for quantum state engineering by Gaussian catalysis (GBS)
 
 ![til](cat.gif)
 
